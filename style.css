@@ -1,3 +1,23 @@
 span {
   color: green;
 }
+
+/* .hide {
+		display: none;
+} */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+button {
+  margin: 20px;
+}
+
+h1 {
+  margin-top: 20px;
+}
